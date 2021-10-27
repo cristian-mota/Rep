@@ -15,9 +15,9 @@ git commit -m "first commit"
 
 pause >nul
 
-git remote add origin https://github.com/cristian-mota/Rep.git
+remgit remote add origin https://github.com/cristian-mota/Rep.git
 
-rem git clone https://github.com/cristian-mota/Rep.git
+git clone https://github.com/cristian-mota/Rep.git
 
 
 
