@@ -15,14 +15,14 @@ git commit -m "first commit"
 
 pause >nul
 
-remgit remote add origin https://github.com/cristian-mota/Rep.git
+git remote add origin https://github.com/cristian-mota/Rep.git
 
-git clone https://github.com/cristian-mota/Rep.git
+rem git clone https://github.com/cristian-mota/Rep.git
 
 
 
 pause >nul
 
-git push 
+git push origin master
 
 pause >nul
