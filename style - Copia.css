@@ -1,0 +1,7 @@
+input:in-range {
+  border: 3px solid yellowgreen;
+}
+
+input:out-of-range {
+  border: 4px solid tomato;
+}
