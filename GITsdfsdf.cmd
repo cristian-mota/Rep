@@ -5,19 +5,15 @@ ping 0 -n 4 >nul
 
 cd C:\Users\HUNTER\Desktop\teste\Rep
 
-pause
+pause >nul
 
 git add .
 
-pause
+pause >nul
 
 git commit -m "first commit"
 
-pause
-
-rem git branch -M main
-
-pause
+pause >nul
 
 git remote add origin https://github.com/cristian-mota/Rep.git
 
@@ -25,8 +21,8 @@ rem git clone https://github.com/cristian-mota/Rep.git
 
 
 
-pause
+pause >nul
 
-git push --set-upstream origin master
+git push 
 
-pause
+pause >nul
