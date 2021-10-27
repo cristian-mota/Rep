@@ -1,3 +1,5 @@
+cd %cd%
+
 git status
 
 git add .
